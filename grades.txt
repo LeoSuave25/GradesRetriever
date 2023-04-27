@@ -1,0 +1,22 @@
+Name           Grade
+--------------------
+Emma           78.50
+Olivia         91.00
+Noah           64.50
+Liam           83.50
+Ava            77.50
+Sophia         89.50
+Isabella       71.50
+Mia            94.00
+Charlotte      81.50
+Amelia         85.50
+Harper         62.50
+Evelyn         90.50
+Abigail        76.00
+Emily          88.50
+Elizabeth      73.50
+Ella           97.50
+Avery          79.00
+Scarlett       82.50
+Victoria       70.50
+Madison        93.00
