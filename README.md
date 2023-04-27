@@ -29,10 +29,6 @@ The `grades.txt` file should have the following format:
 * Python 3
 * `pyfiglet` library (install using `pip install pyfiglet`)
 
-## License
-
-This program is licensed under the MIT License. See the `LICENSE` file for more information. 
-
 ## Author 👩‍💻
 
 This program was created by Leoj M. Suaverdez using Python and `pyfiglet`.
