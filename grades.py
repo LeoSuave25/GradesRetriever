@@ -1,4 +1,9 @@
 # Style the Project
+import pyfiglet as fig
+print("\033[32m","="*100,"\033[m")
+title = "Highest Grade Finder"
+print("\033[32m",fig.figlet_format(title),"\033[m")
+print(fig.figlet_format("Made by: Leoj M Suaverdez",font="bubble"))
 # Open the file and read the grades
 with open('grades.txt', 'r') as file:
     student_lines = file.readlines()[2:]  # Skip the header rows
@@ -14,3 +19,4 @@ print("\033[32m" + f"The highest grade is {highest_grade} and it belongs to {hig
 # Checking Error
 # print(highest_grade)
 # print(highest_grade_student_name)
+print("\033[32m","="*100,"\033[m")
